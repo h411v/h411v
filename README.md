@@ -1,19 +1,23 @@
-<h1 align="center">Hi, I'am Vitor</h1>
-<h6 align="center">I'M WEB DEVELOPER
+### Heyo, i'am h411v. You can call me Haku.
+> [!TIP]
+> You can know better about me on [this](https://www.h4kv.com) link.
 
-</BR>
-</BR>
-  
-<div align="center">
-  
-![Snoopy Rotating](https://i.pinimg.com/originals/3c/06/3c/3c063cb020c08d8d4530aa06ab8e310a.gif)
-  
-</div>
+![eyes of cat](https://i.pinimg.com/736x/95/0b/3a/950b3a4f996285513bb9d30916e86f8b.jpg)
 
-</BR>
-<h6 align="center">SOCIAL</h6>
-</BR>
-<div align="center">  
-  <a href="https://www.instagram.com/h4kv999/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=101820"/></a>
-  <a href="https://https://bsky.app/profile/h4kv999.bsky.social/post/3l4hgriq6fo22" target="_blank"><img src="https://img.shields.io/badge/-Blue sky-ffffff?style=for-the-badge&logo=bluesky&logoColor=101820"/></a>
-</div>
+I'm a CS student or whatever.
+
+I spend more time in the terminal than doing anything.
+
+Honestly I like things that are simple, straightforward, and that work.
+> If it do what it have to do and it right, that's already ~fucking~ awesome.
+
+I don't like lemon cookies, and if i were an animal, i would be a penguin.
+
+Penguins are pretty awesome.
+
+### Techs that i use
+- System: Arch Linux (btw) with Sway and other stuff, check my [dotfiles](https://github.com/h411v/dotfiles).
+- Shell: bash
+- Editors: Neovim
+- Languages: C, C#, Javascript
+- Version control: Git (this is a jk, of couse)
