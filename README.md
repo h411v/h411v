@@ -16,7 +16,7 @@ I don't like lemon cookies, and if I were an animal, I would be a penguin.
 Penguins are pretty awesome.
 
 ### Techs that I use
-- System: Arch Linux (btw) with Sway and other stuff, check my [dotfiles](https://github.com/h411v/dotfiles).
+- System: Arch Linux (btw) with Hyprland and other stuff, check my [dotfiles](https://github.com/h411v/dotfiles).
 - Shell: bash
 - Editors: Neovim
 - Languages: C, C#, Javascript
